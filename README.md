@@ -7,4 +7,4 @@
 - [ ] Введение в Data Science и машинное обучение
 
 **Получены следубщие сертификаты: (bold)**
-1. ![Alt-текст](https://stepik.org/cert/383631 "Орк")
+1. ![Alt-текст](https://stepik.org/certificate/e55b90939beec2492322e8cfb32ddce5b9ecbed7.png "Орк")
