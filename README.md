@@ -5,3 +5,7 @@
 - [ ] Java. Базовый курс
 - [ ] Алгоритмы: теория и практика
 - [ ] Введение в Data Science и машинное обучение
+
+**Получены следубщие сертификаты: (bold)**
+1.![Alt-текст](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Орк")
+https://stepik.org/certificate/e55b90939beec2492322e8cfb32ddce5b9ecbed7.pdf
