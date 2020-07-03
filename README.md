@@ -6,5 +6,5 @@
 - [ ] Алгоритмы: теория и практика
 - [ ] Введение в Data Science и машинное обучение
 
-**Получены следубщие сертификаты: (bold)**
-1. ![Alt-текст](https://stepik.org/certificate/e55b90939beec2492322e8cfb32ddce5b9ecbed7.png "Орк")
+**Получены следующие сертификаты: (bold)**
+1. ![Python](https://stepik.org/certificate/e55b90939beec2492322e8cfb32ddce5b9ecbed7.png "Python")
