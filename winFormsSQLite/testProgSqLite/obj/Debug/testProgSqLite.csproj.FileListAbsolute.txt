@@ -1,0 +1,14 @@
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\testProgSqLite\bin\Debug\testProgSqLite.exe.config
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\testProgSqLite\bin\Debug\testProgSqLite.exe
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\testProgSqLite\bin\Debug\testProgSqLite.pdb
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\testProgSqLite\obj\Debug\testProgSqLite.csprojAssemblyReference.cache
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\testProgSqLite\obj\Debug\testProgSqLite.Properties.Resources.resources
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\testProgSqLite\obj\Debug\testProgSqLite.csproj.GenerateResource.cache
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\testProgSqLite\obj\Debug\testProgSqLite.csproj.CoreCompileInputs.cache
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\testProgSqLite\obj\Debug\testProgSqLite.exe
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\testProgSqLite\obj\Debug\testProgSqLite.pdb
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\testProgSqLite\bin\Debug\System.Data.SQLite.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\testProgSqLite\bin\Debug\System.Data.SQLite.xml
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\testProgSqLite\bin\Debug\System.Data.SQLite.dll.config
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\testProgSqLite\obj\Debug\testProgSqLite.Form1.resources
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\testProgSqLite\obj\Debug\testProgSqLite.csproj.CopyComplete
