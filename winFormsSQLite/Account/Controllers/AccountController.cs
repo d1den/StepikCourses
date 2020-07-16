@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Query.Internal;
 using Microsoft.Extensions.Logging;
 using Microsoft.VisualBasic;
+using Account.Repositories;
+
 
 namespace Account.Controllers
 {
@@ -15,28 +17,17 @@ namespace Account.Controllers
     public class AccountController : ControllerBase
     {
         private readonly ILogger<AccountController> _logger;
-
+        TransactionRep repos = new TransactionRep();
         public AccountController(ILogger<AccountController> logger)
         {
             _logger = logger;
         }
 
         [HttpGet]
-        public IQueryable<dynamic> Get()
+        public IQueryable<UserTransaction> Get()
         {
-            TrContext context = new TrContext();
-                IQueryable<dynamic> result = context.Transactions.Join(context.Categories,
-                    t => t.CategoryId,
-                    c => c.Id,
-                    (t, c) => new
-                    {
-                        type = t.Type,
-                        category = c.Name,
-                        sum = t.Sum,
-                        comment = t.Comment,
-                        date = t.Date
-                    });
-                return result;
+            return repos.GetAll();
         }
+        
     }
 }
